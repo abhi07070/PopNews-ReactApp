@@ -1,4 +1,5 @@
-{  "homepage": "https://abhi07070.github.io/PopNews-ReactApp",
+{
+  "homepage": "https://abhi07070.github.io/PopNews-ReactApp",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
