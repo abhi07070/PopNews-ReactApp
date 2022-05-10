@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PopNews-ReactApp/static/css/main.abd64e84.css",
+    "main.js": "/PopNews-ReactApp/static/js/main.8d1e0d02.js",
+    "static/js/787.4c026eef.chunk.js": "/PopNews-ReactApp/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/PopNews-ReactApp/static/media/loading.f0fea10b2a66b731a71f.gif",
+    "index.html": "/PopNews-ReactApp/index.html",
+    "main.abd64e84.css.map": "/PopNews-ReactApp/static/css/main.abd64e84.css.map",
+    "main.8d1e0d02.js.map": "/PopNews-ReactApp/static/js/main.8d1e0d02.js.map",
+    "787.4c026eef.chunk.js.map": "/PopNews-ReactApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8d1e0d02.js"
+  ]
+}
